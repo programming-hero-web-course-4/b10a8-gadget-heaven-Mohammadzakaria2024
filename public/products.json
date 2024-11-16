@@ -1,0 +1,277 @@
+[
+  
+  {
+    "product_id": 14,
+    "product_title": "Black Shark S1 Pro 1.43 AMOLED Smart Watch With ChatGPT",
+    "product_image": "https://www.pchouse.com.bd/image/cache/catalog/products_2024/gs3-black-500x500-600x500h.png.webp",
+    "category": "smart-watches",
+    "price": 488.19,
+    "availability": true,
+    "rating": 3.5,
+    "specification": [
+      "Processor: Exynos W920",
+      "RAM: 1.5GB",
+      "Storage: 16GB",
+      "Display: 1.4-inch Super AMOLED",
+      "Battery: 330mAh",
+      "Operating System: Wear OS",
+      "Features: GPS, Heart Rate Monitor, SpO2 sensor"
+    ]
+  },
+  {
+    "product_id": 15,
+    "product_title": "Oraimo Slice Link OPB-P5101 10000mAh 12W Power Bank",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBWulzHg3pNy4waefVHC10YUz7JPs_EtQvIw&s",
+    "category": "power-banks",
+    "price": 495.65,
+    "availability": true,
+    "rating": 4.4,
+    "specification": [
+      "Capacity: 20000mAh",
+      "Output: 18W",
+      "Ports: USB-A, USB-C",
+      "Features: Power Delivery, Multiple Charging, LED Indicator"
+    ]
+  },
+  
+  {
+    "product_id": 28,
+    "product_title": "Havit M9036 1.39 Touch Screen Smart Watch",
+    "product_image": "https://smartdeal.com.bd/public/uploads/all/vVIkCbXIE7akT1TDvbSdW3qKsH6KSY2GfdaL821H.webp",
+    "category": "smart-watches",
+    "price": 342.88,
+    "availability": false,
+    "rating": 4.8,
+    "specification": [
+      "Processor: Exynos W920",
+      "RAM: 1.5GB",
+      "Storage: 16GB",
+      "Display: 1.4-inch Super AMOLED",
+      "Battery: 330mAh",
+      "Operating System: Wear OS",
+      "Features: GPS, Heart Rate Monitor, SpO2 sensor"
+    ]
+  },
+  {
+    "product_id": 29,
+    "product_title": "HP 250 G8 Core i3 11th Gen 256GB SSD 1TB HDD SSD 15.6 FHD Laptop with Windows",
+    "product_image": "https://ryans.com/storage/products/main/hp-250-g8-intel-core-i3-1115g4-4gb-ram-1tb-hdd-61709719913.webp",
+    "category": "computers",
+    "price": 163.89,
+    "availability": true,
+    "rating": 4.7,
+    "specification": [
+      "Processor: Intel Core i7-12700K",
+      "RAM: 32GB DDR4",
+      "Storage: 1TB SSD",
+      "Graphics: NVIDIA GeForce RTX 3080",
+      "Operating System: Windows 11 Pro",
+      "Display: 27-inch 4K UHD",
+      "Ports: USB-C, HDMI, DisplayPort, Ethernet",
+      "Weight: 12.3 lbs"
+    ]
+  },
+  {
+    "product_id": 30,
+    "product_title": "HiFuture FutureGo Pro Stainless Steel Waterproof Smartwatch",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSyQwHIZ287t1aoN5iWwzjSkEqQ3R7s142GQ&s",
+    "category": "smart-watches",
+    "price": 178.01,
+    "availability": false,
+    "rating": 4.4,
+    "specification": [
+      "Processor: Exynos W920",
+      "RAM: 1.5GB",
+      "Storage: 16GB",
+      "Display: 1.4-inch Super AMOLED",
+      "Battery: 330mAh",
+      "Operating System: Wear OS",
+      "Features: GPS, Heart Rate Monitor, SpO2 sensor"
+    ]
+  },
+  {
+    "product_id": 31,
+    "product_title": "HP 255 G9 Ryzen 5 5625U 15.6 HD Laptop With 1 Year Warranty",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRavOBVi9jNQGZY7Oq_dDZ9qkk81gkmi9GJiA&s",
+    "category": "computers",
+    "price": 464.56,
+    "availability": true,
+    "rating": 3.5,
+    "specification": [
+      "Processor: Intel Core i7-12700K",
+      "RAM: 32GB DDR4",
+      "Storage: 1TB SSD",
+      "Graphics: NVIDIA GeForce RTX 3080",
+      "Operating System: Windows 11 Pro",
+      "Display: 27-inch 4K UHD",
+      "Ports: USB-C, HDMI, DisplayPort, Ethernet",
+      "Weight: 12.3 lbs"
+    ]
+  },
+  {
+    "product_id": 32,
+    "product_title": "Anker 511 Nano 3 GaN 30W Type C Charger Adapter",
+    "product_image": "https://dolbear.tech/wp-content/uploads/2023/10/A2147J21-%E6%AD%A3%E9%9D%A2__original-700x543.png",
+    "category": "chargers",
+    "price": 465.03,
+    "availability": true,
+    "rating": 3.8,
+    "specification": [
+      "Brand: Anker",
+      "Model: PowerPort III",
+      "Output: 60W",
+      "Ports: USB-C",
+      "Cable Length: 6 feet",
+      "Features: Power Delivery 3.0, Overcurrent Protection"
+    ]
+  },
+  {
+    "product_id": 33,
+    "product_title": "Havit PB80 10000mAh Power Bank",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSlbcISIfR_63Vox7bo5r0y1SlBtJBNqosDg&s",
+    "category": "power-banks",
+    "price": 176.34,
+    "availability": true,
+    "rating": 4.3,
+    "specification": [
+      "Capacity: 20000mAh",
+      "Output: 18W",
+      "Ports: USB-A, USB-C",
+      "Features: Power Delivery, Multiple Charging, LED Indicator"
+    ]
+  },
+
+  {
+    "product_id": 35,
+    "product_title": "Baseus Bipow Digital Display 15W 10000mAh Power Bank White",
+    "product_image": "https://i.postimg.cc/prYg996j/bipow-15w-white-01-500x500.webp",
+    "category": "power-banks",
+    "price": 159.65,
+    "availability": true,
+    "rating": 3.1,
+    "specification": [
+      "Capacity: 20000mAh",
+      "Output: 18W",
+      "Ports: USB-A, USB-C",
+      "Features: Power Delivery, Multiple Charging, LED Indicator"
+    ]
+  },
+  {
+    "product_id": 36,
+    "product_title": "HP 15-fd0331TU Core i3 13th Gen 15.6 FHD Laptop",
+    "product_image": "https://i.postimg.cc/WpFCq1yC/15-fd0331tu-01-500x500.webp",
+    "category": "computers",
+    "price": 494.34,
+    "availability": true,
+    "rating": 4,
+    "specification": [
+      "Processor: Intel Core i7-12700K",
+      "RAM: 32GB DDR4",
+      "Storage: 1TB SSD",
+      "Graphics: NVIDIA GeForce RTX 3080",
+      "Operating System: Windows 11 Pro",
+      "Display: 27-inch 4K UHD",
+      "Ports: USB-C, HDMI, DisplayPort, Ethernet",
+      "Weight: 12.3 lbs"
+    ]
+  },
+  {
+    "product_id": 37,
+    "product_title": "Baseus PPXJ30 Star Lord Digital Display 22.5W 30000mAh Fast Charge Power Bank",
+    "product_image": "https://i.postimg.cc/NG6hCVj0/ppxj30-01-500x500.webp",
+    "category": "power-banks",
+    "price": 161.62,
+    "availability": false,
+    "rating": 4.1,
+    "specification": [
+      "Capacity: 20000mAh",
+      "Output: 18W",
+      "Ports: USB-A, USB-C",
+      "Features: Power Delivery, Multiple Charging, LED Indicator"
+    ]
+  },
+  {
+    "product_id": 38,
+    "product_title": "Vyvylabs VBL0120-02 Leca Digital Display 10000mAh 20W Power Bank",
+    "product_image": "https://i.postimg.cc/jdcpt7N0/vbl0120-02-01-500x500.webp",
+    "category": "power-banks",
+    "price": 463.84,
+    "availability": false,
+    "rating": 4,
+    "specification": [
+      "Capacity: 20000mAh",
+      "Output: 18W",
+      "Ports: USB-A, USB-C",
+      "Features: Power Delivery, Multiple Charging, LED Indicator"
+    ]
+  },
+  {
+    "product_id": 39,
+    "product_title": "Haylou RS4 Max Bluetooth Calling Smart Watch",
+    "product_image": "https://i.postimg.cc/htPXM6VF/rs4-max-001-500x500.webp",
+    "category": "smart-watches",
+    "price": 385.92,
+    "availability": true,
+    "rating": 3.7,
+    "specification": [
+      "Processor: Exynos W920",
+      "RAM: 1.5GB",
+      "Storage: 16GB",
+      "Display: 1.4-inch Super AMOLED",
+      "Battery: 330mAh",
+      "Operating System: Wear OS",
+      "Features: GPS, Heart Rate Monitor, SpO2 sensor"
+    ]
+  },
+  {
+    "product_id": 40,
+    "product_title": "ZTE Blade A35 (4/64GB)",
+    "product_image": "https://i.postimg.cc/fRgNs9dq/blade-a35-black-500x500.webp",
+    "category": "phones",
+    "price": 371.51,
+    "availability": true,
+    "rating": 3.4,
+    "specification": [
+      "Processor: A16 Bionic",
+      "RAM: 6GB",
+      "Storage: 512GB",
+      "Display: 6.7-inch Super Retina XDR",
+      "Camera: Triple 12MP Ultra Wide, Wide, Telephoto",
+      "Battery: 4320mAh"
+    ]
+  },
+  
+  {
+    "product_id": 48,
+    "product_title": "Havit M9024 1.69 HD Screen Bluetooth Calling Smart Watch",
+    "product_image": "https://i.postimg.cc/LXMRQgGq/m9024-01-500x500.webp",
+    "category": "smart-watches",
+    "price": 289.6,
+    "availability": true,
+    "rating": 3.1,
+    "specification": [
+      "Processor: Exynos W920",
+      "RAM: 1.5GB",
+      "Storage: 16GB",
+      "Display: 1.4-inch Super AMOLED",
+      "Battery: 330mAh",
+      "Operating System: Wear OS",
+      "Features: GPS, Heart Rate Monitor, SpO2 sensor"
+    ]
+  },
+  {
+    "product_id": 49,
+    "product_title": "Havit PB56 40000mAh Power Bank",
+    "product_image": "https://i.postimg.cc/KjFWyG88/pb56-03-500x500.webp",
+    "category": "power-banks",
+    "price": 92.85,
+    "availability": true,
+    "rating": 4.2,
+    "specification": [
+      "Capacity: 20000mAh",
+      "Output: 18W",
+      "Ports: USB-A, USB-C",
+      "Features: Power Delivery, Multiple Charging, LED Indicator"
+    ]
+  }
+]
